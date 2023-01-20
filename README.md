@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @KIma94
-- 👀 I’m interested in Blockchain, javascript
-- 🌱 I’m currently learning blockchain
+- 👀 I’m interested in Web Development!
+- 🌱 I’m currently learning Web Development!
 - 💞️ I’m looking to collaborate on different projects thats helps peopel 
 - 📫 How to reach me kimachuk94@gmail.com
 
