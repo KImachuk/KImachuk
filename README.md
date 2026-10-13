@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @KIma94
-- 👀 I’m interested in Web Development!
-- 🌱 I’m currently learning Web Development!
-- 💞️ I’m looking to collaborate on different projects thats helps peopel 
-- 📫 How to reach me kimachuk94@gmail.com
+# Hi, I'm Ivan 👋
 
-<!---
-KImachuk/KImachuk is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Self-taught AI engineer and founder based in the UK. I build AI products end to end, from first prototype to live users.
+
+## What I've built
+
+- **[TaxBot](https://tax-bot.co.uk)**: an AI tax assistant on Telegram for UK sole traders and CIS subcontractors, integrated with HMRC's Making Tax Digital API.
+- **[Coflowd](https://apps.apple.com/gb/app/coflowd/id6759518993)**: an iOS app that turns messages, voice notes, photos and documents into tasks. Live on the App Store.
+- **Kimax**: a private, self-hosted AI document platform with local LLMs, retrieval and encrypted deployment.
+- **Trading bot**: an algorithmic forex bot in Python on a broker API.
+
+Most production code is private. Happy to walk through it on a call.
+
+## Tech
+
+Python · TypeScript · Node.js · FastAPI · React · LLMs and RAG · Ollama · ChromaDB · Postgres · REST and OAuth2 APIs · Telegram Bot API and Mini Apps · Linux
+
+## Get in touch
+
+📫 kimachuk94@gmail.com
+🗣️ English · Russian · Ukrainian
